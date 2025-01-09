@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.bootstrap form[action*=sensebankpayment] #login {
+    padding: 6px 8px;}
+
+#configuration_form .form-group select {
+    padding: 5px;
+}
+
+p.payment_module a.sensebankpayment {
+    background: url(../img/credit-card-icon.png) 15px 15px no-repeat #fbfbfb;
+}
+
+p.payment_module a.sensebankpayment:after {
+    display: block;
+    content: "\f054";
+    position: absolute;
+    right: 15px;
+    margin-top: -11px;
+    top: 50%;
+    font-family: "FontAwesome";
+    font-size: 25px;
+    height: 22px;
+    width: 14px;
+    color: #777;
+}

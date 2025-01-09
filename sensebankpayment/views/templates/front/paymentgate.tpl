@@ -1,0 +1,1 @@
+<p>{l s='Now you will be redirected to the payment system' mod='sensebankpayment'}</p>

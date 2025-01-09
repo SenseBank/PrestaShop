@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>Sensebank</name>
+    <displayName><![CDATA[Sensebank]]></displayName>
+    <version><![CDATA[2.8.2]]></version>
+    <description><![CDATA[Модуль оплаты картой через платежный шлюз]]></description>
+    <author><![CDATA[SensebankPayment]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Вы действительно хотите удалить модуль?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
